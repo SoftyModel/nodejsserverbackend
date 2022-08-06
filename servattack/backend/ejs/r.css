@@ -1,0 +1,49 @@
+html, body{width: 100%;
+	       height:100%}
+
+		   .pagename{font-size: 23px;
+		             text-align: center;
+                     font-family: Andale Mono, monospace;
+                     background-color: #2E5F8A
+	  ;
+		   }
+
+
+.form1{ text-align: center;
+margin-left: center;
+margin-right:center;
+margin-bottom:10px;
+margin-top:10%;
+	 }
+	 
+	 .form2{ text-align: center;
+margin-left: center;
+margin-right:center;
+margin-bottom:10px;
+margin-top:1px;
+	 }
+	 
+	 
+	
+	 
+	 
+	
+	 
+	 
+button {
+	background-color: #2E5F8A;
+	text-align: center;
+	 border: none;
+	 width: 50px;
+	 height: 15px;
+	 border-radius: 15px;
+	 margin-left: center;
+margin-right:center;
+margin-bottom: 15px;
+margin-top:15px;
+	 
+	 
+}
+
+
+
